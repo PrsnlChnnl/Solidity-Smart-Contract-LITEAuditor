@@ -1,4 +1,4 @@
-# 📖 Auditos - Solidity Smart Contract Auditor 🚀
+# 📖 Solidity Smart Contract LITEAuditor 🚀
 
 Welcome to **Auditos**, a powerful tool for auditing Solidity smart contracts! 🔍 This project helps you identify vulnerabilities in your smart contracts using Slither, with a clean and user-friendly interface. Whether you're a developer or a security researcher, Auditos makes contract auditing a breeze. 😎
 
